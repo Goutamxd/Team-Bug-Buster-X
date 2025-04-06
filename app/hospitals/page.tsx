@@ -117,7 +117,7 @@ export default function HospitalsPage() {
         </TabsList>
       </Tabs>
 
-      <div className="grid grid-cols-1 gap-6">
+      {/* <div className="grid grid-cols-1 gap-6">
         {hospitals.map((hospital) => (
           <Card key={hospital.id} className="overflow-hidden">
             <div className="flex flex-col lg:flex-row">
@@ -221,7 +221,7 @@ export default function HospitalsPage() {
             </div>
           </Card>
         ))}
-      </div>
+      </div> */}
 
       <Tabs.Content value="map">
         <div className="bg-gray-100 dark:bg-gray-700 rounded-xl h-96 flex items-center justify-center">
