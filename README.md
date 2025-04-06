@@ -15,7 +15,7 @@ A platform to improve access to healthcare in underserved communities, aligning 
 
 🛠️ Tech Stack
 
-Frontend: React.js, Tailwind CSS
+Frontend: React.js, TypeScript , Css
 
 Backend: Node.js, Express.js
 
