@@ -17,7 +17,7 @@ A platform to improve access to healthcare in underserved communities, aligning 
 
 Frontend: React.js, TypeScript , Css
 
-Backend: Node.js, Express.js
+Backend: Node.js, Express.js , Nextjs
 
 Database: MongoDB / Firebase
 
